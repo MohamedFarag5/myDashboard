@@ -7,7 +7,7 @@ import { useState } from 'react';
 import Sidebar from './Components/Sidebar';
 import {ThemeProvider,createTheme} from '@mui/material/styles'
 import Team from './Pages/team/Team';
-import Contacts from './Pages/contacts/contacts';
+import Contacts from './Pages/contacts/Contacts.jsx';
 import Invoices from './Pages/invoices/Invoices';
 import Form from './Pages/form/Form';
 import Calender from './Pages/calender/Calender';
